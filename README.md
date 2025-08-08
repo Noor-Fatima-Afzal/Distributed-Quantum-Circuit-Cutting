@@ -1,4 +1,4 @@
-# Distributed Quantum Circuit Cutting — Streamlit App
+# Distributed Quantum Circuit Cutting
 
 An interactive **Streamlit** web application that demonstrates **distributed quantum computing** via **circuit cutting** using Qiskit’s [`qiskit-addon-cutting`](https://qiskit.org/ecosystem/cutting/) module.
 

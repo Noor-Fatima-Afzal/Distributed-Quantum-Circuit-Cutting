@@ -9,6 +9,11 @@ The app allows you to:
 - View **sampling overhead**, **fragment stats**, and **reconstructed expectation values**
 
 ---
+## 🔄 Flow Chart
+
+<p align="center">
+  <img src="flow.png" alt="Distributed Circuit Cutting flow chart" width="720">
+</p>
 
 ## 📸 Features
 - **Algorithm selection**: GHZ state, Quantum Fourier Transform, Grover’s search
